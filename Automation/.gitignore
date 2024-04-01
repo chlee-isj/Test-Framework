@@ -1,6 +1,4 @@
 /target/
-**/test-output
-**/.settings/
-**/.project
+/test-output
 **/.DS_Store
 /.classpath
